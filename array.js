@@ -1,7 +1,7 @@
 // const replacedSchool = school.replaceAll("c", "j")
 // console.log(replacedSchool)
 
-// write a program that converts a persons full name to firstName and last name
+// // write a program that converts a persons full name to firstName and last name
 
 // const fullname = "femi jacob"
 
@@ -113,11 +113,11 @@
 
 // console.log(evenScore)
 
-//const fruits = ["pawpaw","mango","cashew","pineapple","cherry","watermelon"]
+// const fruits = ["pawpaw","mango","cashew","pineapple","cherry","watermelon"]
 
 //  const fruitsWithe = fruits.filter((josh)=> josh.includes("e"))
 
-//find method
+// find method
 //  const fruitsWithe = fruits.find((josh)=> josh.includes("e"))
 
 // console.log(fruitsWithe)
@@ -134,9 +134,9 @@
 
 // console.log(ageSort)
 
-const myName = (name) =>{
-    return name.split(" ")[0].slice(0, 1) + name.split(" ")[1].slice(0, 1);
-};
+// const myName = (name) =>{
+//     return name.split(" ")[0].slice(0, 1) + name.split(" ")[1].slice(0, 1);
+// };
 
-console.log(myName("Joshua Tech"));
+// console.log(myName("Joshua Tech"));
 
